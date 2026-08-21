@@ -86,6 +86,10 @@ His project management and research skills are truly phenomenal. He inspires oth
     <td><a target="_blank" href="https://www.linkedin.com/in/ryjin210">Mark Ryan Jancorda</a></td>
     <td>Vincent is an outstanding partner to collaborate with. As fellow members of the GitHub Field Day Core Team and GitHub Education, I’ve witnessed his exceptional hospitality and unwavering support whenever the situation calls for it. He exemplifies the qualities of a great role model for future campus experts and aspiring developers, dedicating his free time and scheduled hours to mentor and guide them. Working alongside Vincent on various projects and events has been an enriching and rewarding experience.</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/brent-kurt-flores-891658219">Brent Kurt Flores</a></td>
+    <td>Vincent's expertise is clear, and his passion for his craft shines through in every detail. From fixes and improvements to thoughtful recommendations, he ensures his team consistently meets client expectations. As a leader, he inspires his team to grow, learn, and push boundaries, making them unstoppable in their pursuit of excellence. Working with Vincent is really awesome!</td>
+  </tr>
 </table>
 
 ### Hackathon & Grant
